@@ -8,8 +8,6 @@ jobs:
 
     runs-on: windows-latest
 
-    timeout-minutes: 604800
-
     steps:
 
     - name: Mendownload Ngrok.
